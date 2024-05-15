@@ -2,7 +2,7 @@
 
 Este repositorio contiene los archivos esenciales para el desarrollo de la aplicación, incluyendo:
 
-- **SQL:** Archivo de texto con las tablas de la base de datos.
+- **SQL:** Archivo de texto con las tablas de la base de datos. ![SQL](https://ojt.com/wp-content/uploads/2021/08/sql.png)
 - **APK:** Archivo de texto con el enlace donde está alojado el archivo APK de la aplicación.
 
 ### Repositorios de Código

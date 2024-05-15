@@ -7,8 +7,8 @@ Este repositorio contiene los archivos esenciales para el desarrollo de la aplic
 
 ### Repositorios de Código
 
-- **Frontend:** [Enlace al repositorio del frontend](enlace_a_tu_repositorio_frontend)
-- **Backend:** [Enlace al repositorio del backend](enlace_a_tu_repositorio_backend)
+- **Frontend:** [Enlace al repositorio del frontend](https://github.com/ElizaOwO/CGI_Frontend.git)
+- **Backend:** [Enlace al repositorio del backend](https://github.com/ElizaOwO/CGI_Backend.git)
 
 ### Versión
 La versión actual de la aplicación es v1.0.1.

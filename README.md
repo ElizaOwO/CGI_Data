@@ -1,6 +1,6 @@
 # CGI_Data
 
-Este repositorio contiene los archivos esenciales para el desarrollo de la aplicación, incluyendo:
+Este repositorio contiene archivos esenciales para el desarrollo y visualización de la aplicación:
 
 - **SQL:** Archivo de texto con las tablas de la base de datos.
 - **APK:** Archivo de texto con el enlace donde está alojado el archivo APK de la aplicación.
